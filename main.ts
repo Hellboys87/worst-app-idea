@@ -4,7 +4,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "Meet SnoozeVault, the app that locks your phone alarm behind a $4.99 monthly subscription and a 400-word essay on why you deserve to wake up, reviewed by a stranger within 3 to 5 business days.";
+  "Introducing NapGuard Pro: for $9.99 a month it locks your alarm clock behind a 12-question personality quiz and a live video interview, so oversleepers can finally be professionally rejected by their own morning.";
 
 const MAX_CHARS = 240;
 
